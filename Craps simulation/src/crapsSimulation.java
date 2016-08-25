@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// this is called a comment
 public class crapsSimulation
 	{
 		static int dice1;
